@@ -1,4 +1,4 @@
-# Flower-Classification-K-Nearest-Neighbors
+# Flower Classification K Nearest Neighbors
 K-Nearest Neighbor is a supervised classification algorithm used to assign a class to new data point. KNN can be used for both regression and classification tasks.
 Algorithm:
 - Compute the distance between the new data point with every training example.
